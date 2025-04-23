@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **Python,My SQL,Statistics,Power BI,Excel**
+- 💬 Ask me about **Python,Django,Flask,FastAPI,MySQL**
 
-- 📫 How to reach me **pataihe13@gmail.com**
+- 📫 How to reach me **utsavpataihe132@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
